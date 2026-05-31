@@ -20,5 +20,8 @@ env/
 .DS_Store
 Thumbs.db
 
+# Release archives
+RichMan_Releases.zip
+
 # Logs
 *.log
